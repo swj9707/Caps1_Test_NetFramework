@@ -12,6 +12,7 @@ namespace Caps1_Test_NetFramework
         /// 해당 애플리케이션의 주 진입점입니다.
         /// </summary> WJ 테스트 커밋 
         /// 교육용 커밋
+        /// test commit
         [STAThread]
         static void Main()
         {
